@@ -1,0 +1,18 @@
+{
+  "name": "mailthread",
+  "account_id": "5ed39fb19258a3f85c29b1c5ba4bef55",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-11-17",
+  "workers_dev": true,
+  "preview_urls": false,
+  "keep_vars": true,
+  "observability": {
+    "enabled": true
+  },
+  "kv_namespaces": [
+    {
+      "binding": "MAILTHREAD_STORE",
+      "id": "15f0f33cdc264dd98159cc6c5d0cf4aa"
+    }
+  ]
+}

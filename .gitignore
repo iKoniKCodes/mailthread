@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+.cloudflare/
+.env*
+.dev.vars*
+public/demo/index.html
